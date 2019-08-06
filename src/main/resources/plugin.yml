@@ -1,0 +1,3 @@
+name: Merge
+version: ${project.version}
+main: fr.rgld_.merge.Merge
