@@ -1,4 +1,4 @@
 # Merge
-Merge player count of two spigot servers.
+Merge player count of two spigot servers by the manager of BungeeCord.
 
-No more content on this ReadMe :)
+This plugin is developped for this server `play.khraal.fr`.
